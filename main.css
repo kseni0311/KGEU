@@ -1,0 +1,31 @@
+h1 {
+    margin: 0;
+    font-size: 27px;
+    line-height: 27px;
+    position: relative;
+    border-bottom-width: 8px;
+    border-bottom-style: solid;
+    z-index: 9;
+    position: relative;
+    padding: 30px 0;
+    float: left;
+    <!-- Стиль взят с сайта https://idg.net.ua/-->
+}
+p {
+  color: #222;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  text-indent: 16px;
+  text-align: justify;
+}
+blockquote {
+  color: blue;
+  font-family: sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-style: italic;
+  margin: 36px;
+  word-spacing: 6px;
+  background-color: yellow;
+}
